@@ -1,5 +1,5 @@
 This repo demonstrates a runtime error that appears when using async instance properties/methods
-in class-based React components and bundling with Parcel 2.
+in class-based React components and bundling with Parcel 2 _for Internet Explorer 11_
 
 ## Instructions
 

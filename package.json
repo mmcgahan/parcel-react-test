@@ -11,14 +11,13 @@
   "devDependencies": {
     "@types/react": "^17.0.38",
     "parcel": "^2.0.1",
-    "parcel-resolver-ignore": "^2.0.0",
     "typescript": "^4.5.4"
   },
   "targets": {
     "default": {
       "engines": {
         "browsers": [
-          ">0.5%"
+          "ie 11"
         ]
       }
     }
